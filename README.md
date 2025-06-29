@@ -6,7 +6,7 @@
 
 - 🌱 I’m fluent in **Java,HTML5/CSS3,JavaScript,Mysql**
 
-- 📫 How to reach me **yasiru0210@gmail.com**
+- 📫 How to reach me **yasirukavinda20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
